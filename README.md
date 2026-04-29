@@ -15,6 +15,7 @@ YTD Sales: $371M
 Total Cars Sold: 24K
 YTD Cars Sold: 13K
 Average Price: $28K
+
 📈 Dashboard Features
 Sales Trend Analysis: Weekly YTD sales trends visualization
 Sales by Color: Distribution of sales across different car colors
@@ -25,13 +26,9 @@ YTD Sales
 Cars Sold
 Growth %
 Average Price
+
 🔍 Filters Available
-
-The dashboard allows dynamic filtering by:
-
 Dealer Region
 Dealer Name
 Transmission Type
 Engine Type
-🛠️ Tools & Technologies
-Power BI (or replace with Tabl
